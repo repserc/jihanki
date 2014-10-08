@@ -1,5 +1,6 @@
 自動販売機プログラム
 =======
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/repserc/jihanki?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 飲み物の自動販売機のプログラムを作成します。
 
